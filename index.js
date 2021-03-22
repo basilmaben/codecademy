@@ -1,4 +1,4 @@
-let sale = true;
+/* let sale = true;
 
 sale = false;
 
@@ -7,3 +7,4 @@ if (sale) {
 } else {
   console.log("Time to wait for a sale.");
 }
+ */
