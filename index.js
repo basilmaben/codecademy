@@ -140,5 +140,6 @@ console.log(plantNeedsWater()); */
 };
 console.log(plantNeedsWater("Wednesday")); */
 
-const plantNeedsWater = (day) => (day === "Wednesday" ? true : false);
+/* const plantNeedsWater = (day) => (day === "Wednesday" ? true : false);
 console.log(plantNeedsWater("Wednesday"));
+ */
