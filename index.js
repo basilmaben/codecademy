@@ -34,7 +34,7 @@ let writingUtensil = tool || "pen";
 console.log(`The ${writingUtensil} is mightier than the sword.`);
  */
 
-let isLocked = true;
+/* let isLocked = true;
 isLocked
   ? console.log("You will need a key to open the door.")
   : console.log("You will not need a key to open the door.");
@@ -48,3 +48,4 @@ let favoritePhrase = "Love That!";
 favoritePhrase === "Love That!"
   ? console.log("I love that!")
   : console.log("I don't love that!");
+ */
