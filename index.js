@@ -50,7 +50,7 @@ favoritePhrase === "Love That!"
   : console.log("I don't love that!");
  */
 
-let season = "summer";
+/* let season = "summer";
 
 if (season === "spring") {
   console.log("It's spring! The trees are budding!");
@@ -63,3 +63,4 @@ if (season === "spring") {
 } else {
   console.log("Invalid season.");
 }
+ */
