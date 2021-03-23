@@ -65,7 +65,7 @@ if (season === "spring") {
 }
  */
 
-let athleteFinalPosition = "first place";
+/* let athleteFinalPosition = "first place";
 switch (athleteFinalPosition) {
   case "first place":
     console.log("You get the gold medal!");
@@ -79,4 +79,4 @@ switch (athleteFinalPosition) {
   default:
     console.log("No medal awarded.");
     break;
-}
+} */
