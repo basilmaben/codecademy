@@ -186,7 +186,7 @@ console.log(stars);
  */
 
 //good scoping
-const logVisibleLightWaves = () => {
+/* const logVisibleLightWaves = () => {
   let lightWaves = "Moonlight";
   let region = "The Arctic";
   // Add if statement here:
@@ -199,3 +199,4 @@ const logVisibleLightWaves = () => {
 };
 
 logVisibleLightWaves();
+ */
