@@ -172,7 +172,7 @@ logVisibleLightWaves(); */
 /* console.log(lightWaves) */
 
 //Scope Pollution
-const satellite = "The Moon";
+/* const satellite = "The Moon";
 const galaxy = "The Milky Way";
 let stars = "North Star";
 
@@ -183,3 +183,4 @@ const callMyNightSky = () => {
 
 console.log(callMyNightSky());
 console.log(stars);
+ */
