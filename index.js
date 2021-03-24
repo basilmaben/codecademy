@@ -203,7 +203,7 @@ logVisibleLightWaves();
 
 /* const hobbies = ["Programming", "Running", "Gaming"];
 console.log(hobbies); */
-
+/* 
 const famousSayings = [
   "Fortune favors the brave.",
   "A joke is a very serious thing.",
@@ -212,3 +212,4 @@ const famousSayings = [
 var listItem = famousSayings[0];
 console.log(listItem);
 console.log(famousSayings[2]);
+ */
