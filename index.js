@@ -225,5 +225,5 @@ console.log(condiments);
 utensils[3] = "Spoon";
 console.log(utensils); */
 
-const objectives = ["Learn a new languages", "Read 52 books", "Run a marathon"];
-console.log(objectives.length);
+/* const objectives = ["Learn a new languages", "Read 52 books", "Run a marathon"];
+console.log(objectives.length); */
