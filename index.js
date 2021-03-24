@@ -214,7 +214,7 @@ console.log(listItem);
 console.log(famousSayings[2]);
  */
 
-let condiments = ["Ketchup", "Mustard", "Soy Sauce", "Sriracha"];
+/* let condiments = ["Ketchup", "Mustard", "Soy Sauce", "Sriracha"];
 
 const utensils = ["Fork", "Knife", "Chopsticks", "Spork"];
 
@@ -223,4 +223,4 @@ console.log(condiments);
 condiments = ["Mayo"];
 console.log(condiments);
 utensils[3] = "Spoon";
-console.log(utensils);
+console.log(utensils); */
