@@ -233,7 +233,7 @@ chores.push("program", "eat");
 console.log(chores);
  */
 
-const chores = [
+/* const chores = [
   "wash dishes",
   "do laundry",
   "take out trash",
@@ -242,4 +242,4 @@ const chores = [
 ];
 
 chores.pop([4]);
-console.log(chores);
+console.log(chores); */
