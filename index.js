@@ -200,3 +200,6 @@ console.log(stars);
 
 logVisibleLightWaves();
  */
+
+const hobbies = ["Programming", "Running", "Gaming"];
+console.log(hobbies);
