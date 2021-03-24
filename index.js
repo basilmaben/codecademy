@@ -287,6 +287,8 @@ console.log(concept); */
 const target = numberClusters[2][1];
 console.log(target); */
 
+/* 
 for (let counter = 3; counter >= 0; counter--) {
   console.log(counter);
 }
+ */
