@@ -264,7 +264,7 @@ const pastaIndex = groceryList.indexOf("pasta");
 console.log(pastaIndex);
  */
 
-const concept = ["arrays", "can", "be", "mutated"];
+/* const concept = ["arrays", "can", "be", "mutated"];
 
 function changeArr(arr) {
   arr[3] = "MUTATED";
@@ -277,4 +277,4 @@ const removeElement = (newArr) => {
   newArr.pop();
 };
 removeElement(concept);
-console.log(concept);
+console.log(concept); */
