@@ -163,10 +163,10 @@ console.log(callMyNightSky());
  */
 
 //Block Scope
-const logVisibleLightWaves = () => {
+/* const logVisibleLightWaves = () => {
   const lightWaves = "Moonlight";
   console.log(lightWaves);
 };
 
-logVisibleLightWaves();
+logVisibleLightWaves(); */
 /* console.log(lightWaves) */
