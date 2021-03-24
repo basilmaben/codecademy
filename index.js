@@ -232,3 +232,14 @@ console.log(objectives.length); */
 chores.push("program", "eat");
 console.log(chores);
  */
+
+const chores = [
+  "wash dishes",
+  "do laundry",
+  "take out trash",
+  "cook dinner",
+  "mop floor"
+];
+
+chores.pop([4]);
+console.log(chores);
