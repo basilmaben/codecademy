@@ -244,7 +244,7 @@ console.log(chores);
 chores.pop([4]);
 console.log(chores); */
 
-const groceryList = [
+/* const groceryList = [
   "orange juice",
   "bananas",
   "coffee beans",
@@ -262,3 +262,4 @@ console.log(groceryList.slice(1, 4, 5, 6));
 console.log(groceryList);
 const pastaIndex = groceryList.indexOf("pasta");
 console.log(pastaIndex);
+ */
