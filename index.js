@@ -301,15 +301,14 @@ for (let i = 0; i < vacationSpots.length; i++) {
 }
  */
 
-const bobsFollowers = ["ELd", "Len", "Ralph", "Van"];
+/* const bobsFollowers = ["ELd", "Len", "Ralph", "Van"];
 const tinasFollowers = ["ELd", "Len", "Benn"];
 const mutualFollowers = [];
 for (let i = 0; i < bobsFollowers.length; i++) {
   for (let j = 0; j < tinasFollowers.length; j++) {
     if (bobsFollowers[i] === tinasFollowers[j]) {
-      /* let mututalFollowers = tinasFollowers[j]; */
       mutualFollowers.push(tinasFollowers[j]);
       console.log(mutualFollowers);
     }
   }
-}
+} */
