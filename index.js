@@ -322,10 +322,10 @@ while (currentCard !== "spade") {
   console.log(currentCard);
 } */
 
-let cupsOfSugarNeeded = 4;
+/* let cupsOfSugarNeeded = 4;
 let cupsAdded = 2;
 do {
   cupsAdded = cupsOfSugarNeeded += cupsAdded;
   cupsAdded++;
 } while (cupsAdded < cupsOfSugarNeeded);
-console.log(cupsAdded);
+console.log(cupsAdded); */
