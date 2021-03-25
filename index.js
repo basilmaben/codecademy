@@ -330,6 +330,7 @@ do {
 } while (cupsAdded < cupsOfSugarNeeded);
 console.log(cupsAdded); */
 
+/* 
 const rapperArray = ["Lil' Kim", "Jay-Z", "Notorious B.I.G.", "Tupac"];
 
 // Write your code below
@@ -340,3 +341,4 @@ for (let i = 0; i < rapperArray.length; i++) {
   }
 }
 console.log("And if you don't know, now you know.");
+ */
