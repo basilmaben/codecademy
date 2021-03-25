@@ -321,3 +321,11 @@ while (currentCard !== "spade") {
   currentCard = cards[Math.floor(Math.random() * 4)];
   console.log(currentCard);
 } */
+
+let cupsOfSugarNeeded = 4;
+let cupsAdded = 2;
+do {
+  cupsAdded = cupsOfSugarNeeded += cupsAdded;
+  cupsAdded++;
+} while (cupsAdded < cupsOfSugarNeeded);
+console.log(cupsAdded);
