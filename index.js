@@ -355,9 +355,9 @@ console.log("And if you don't know, now you know.");
 const is2p2 = checkThatTwoPlusTwoEqualsFourAMillionTimes;
 
 console.log(is2p2.name); */
-
+/* 
 const checkThatTwoPlusTwoEqualsFourAMillionTimes = () => {
-  for (let i = 1; i <= 100000; i++) {
+  for (let i = 1; i <= 10; i++) {
     if (2 + 2 !== 4) {
       console.log("Something has gone very wrong :( ");
     }
@@ -387,4 +387,4 @@ const checkConsistentOutput = (func, val) => {
 };
 
 console.log(time2p2);
-console.log(checkConsistentOutput(addTwo, 3));
+console.log(checkConsistentOutput(addTwo, 3)); */
