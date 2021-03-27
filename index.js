@@ -504,7 +504,7 @@ const newSum = newNumbers.reduce((accumulator, currentValue) => {
 console.log(newSum);
  */
 
-const words = ["unique", "uncanny", "pique", "oxymoron", "guise"];
+/* const words = ["unique", "uncanny", "pique", "oxymoron", "guise"];
 
 // Something is missing in the method call below
 
@@ -524,3 +524,4 @@ console.log(
     return word.length > 5;
   })
 );
+ */
