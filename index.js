@@ -421,7 +421,7 @@ console.log(onlyStrings); */
 fruits.forEach((fruit) => console.log(`I want to eat a ${fruit}`));
  */
 
-const animals = [
+/* const animals = [
   "Hen",
   "elephant",
   "llama",
@@ -448,4 +448,4 @@ const smallNumbers = bigNumbers.map((number) => {
   return number / 100;
 });
 
-console.log(smallNumbers);
+console.log(smallNumbers); */
