@@ -389,7 +389,7 @@ const checkConsistentOutput = (func, val) => {
 console.log(time2p2);
 console.log(checkConsistentOutput(addTwo, 3)); */
 
-const artists = ["Picasso", "Kahlo", "Matisse", "Utamaro"];
+/* const artists = ["Picasso", "Kahlo", "Matisse", "Utamaro"];
 
 artists.forEach((artist) => {
   console.log(artist + " is one of my favorite artists.");
@@ -413,4 +413,4 @@ const onlyStrings = things.filter((thing) => {
 });
 
 console.log(onlyNumbers);
-console.log(onlyStrings);
+console.log(onlyStrings); */
