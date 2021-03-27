@@ -472,7 +472,7 @@ const longFavoriteWords = favoriteWords.filter((words) => {
 console.log(longFavoriteWords);
 console.log(smallNumbers); */
 
-const animals = [
+/* const animals = [
   "hippo",
   "tiger",
   "lion",
@@ -492,4 +492,4 @@ const startsWithS = animals.findIndex((animal) => {
 console.log(foundAnimal);
 console.log(startsWithS);
 console.log(animals[7]);
-console.log(animals[3]);
+console.log(animals[3]); */
