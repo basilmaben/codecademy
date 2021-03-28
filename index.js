@@ -757,3 +757,17 @@ const newRobot = Object.assign(
   robot
 );
 console.log(newRobot); */
+
+/* class Surgeon {
+  constructor(name, department) {
+    this.name = name;
+    this.department = department;
+  }
+  display() {
+    console.log(`${this.name} and from ${this.department}`);
+  }
+}
+
+let surg = new Surgeon("OOPS", "HOSP");
+
+surg.display(); */
