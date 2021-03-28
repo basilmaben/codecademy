@@ -702,7 +702,7 @@ console.log(robot.energyLevel);
 robot.numOfSensors = 100;
 console.log(robot.numOfSensors); */
 
-const robotFactory = (model, mobile) => {
+/* const robotFactory = (model, mobile) => {
   return {
     model: model,
     mobile: mobile,
@@ -715,4 +715,4 @@ const tinCan = robotFactory("P-500", true);
 
 tinCan.beep();
 console.log(tinCan.model);
-console.log(tinCan.mobile);
+console.log(tinCan.mobile); */
