@@ -644,7 +644,7 @@ for (let crewMember in spaceship.crew) {
 }
  */
 
-const robot = {
+/* const robot = {
   model: "1E78V2",
   energyLevel: 100,
 
@@ -654,3 +654,4 @@ const robot = {
 };
 
 console.log(robot.provideInfo());
+ */
