@@ -599,6 +599,7 @@ console.log(spaceship["Fuel Type"]);
 console.log(spaceship);
  */
 
+/* 
 let spaceship = {
   crew: {
     captain: {
@@ -641,3 +642,4 @@ for (let crewMember in spaceship.crew) {
     `${spaceship.crew[crewMember].name}: ${spaceship.crew[crewMember].degree}`
   );
 }
+ */
