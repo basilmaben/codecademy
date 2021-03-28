@@ -733,7 +733,7 @@ const { functionality } = robot;
 functionality.beep();
  */
 
-const robot = {
+/* const robot = {
   model: "SAL-1000",
   mobile: true,
   sentient: false,
@@ -756,4 +756,4 @@ const newRobot = Object.assign(
   { laserBlaster: true, voiceRecognition: true },
   robot
 );
-console.log(newRobot);
+console.log(newRobot); */
