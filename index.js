@@ -655,3 +655,12 @@ for (let crewMember in spaceship.crew) {
 
 console.log(robot.provideInfo());
  */
+
+const robot = {
+  energyLevel: 100,
+  checkEnergy() {
+    console.log(`Energy is currently at ${this.energyLevel}%.`);
+  }
+};
+
+robot.checkEnergy();
