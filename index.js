@@ -717,7 +717,7 @@ tinCan.beep();
 console.log(tinCan.model);
 console.log(tinCan.mobile); */
 
-const robot = {
+/* const robot = {
   model: "1E78V2",
   energyLevel: 100,
   functionality: {
@@ -731,3 +731,4 @@ const robot = {
 };
 const { functionality } = robot;
 functionality.beep();
+ */
