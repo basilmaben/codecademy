@@ -577,3 +577,23 @@ const firstPassenger = spaceship.passengers[0];
 console.log(capFave);
 console.log(firstPassenger);
  */
+
+let spaceship = {
+  "Fuel Type": "Turbo Fuel",
+  homePlanet: "Earth"
+};
+
+// Write your code below
+const greenEnergy = (fuel) => {
+  fuel["Fuel Type"] = "avocado oil";
+};
+
+const remotelyDisable = (obj) => {
+  obj["disabled"] = true;
+};
+
+remotelyDisable(spaceship);
+console.log(spaceship["disabled"]);
+greenEnergy(spaceship);
+console.log(spaceship["Fuel Type"]);
+console.log(spaceship);
