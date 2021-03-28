@@ -758,7 +758,7 @@ const newRobot = Object.assign(
 );
 console.log(newRobot); */
 
-class Surgeon {
+/* class Surgeon {
   constructor(name, department) {
     this.name = name;
     this.department = department;
@@ -768,6 +768,20 @@ class Surgeon {
   }
 }
 
-let surg = new Surgeon("OOPS", "HOSP");
+let surg = new Surgeon("OOPS", "HOSP"); */
 
-surg.display();
+class Surgeon {
+  constructor(name, department) {
+    this.name = name;
+    this.department = department;
+  }
+  display() {
+    console.log(`${this.name} ${this.department}`);
+  }
+}
+
+const surgeonRomero = new Surgeon("Francisco Romero", "Cardiovascular");
+const surgeonJackson = new Surgeon("Ruth Jackson", "Orthopedics");
+
+surgeonJackson.display();
+surgeonRomero.display();
