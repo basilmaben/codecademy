@@ -680,7 +680,7 @@ robot.checkEnergy(); */
 console.log(robot.energyLevel);
  */
 
-const robot = {
+/* const robot = {
   _model: "1E78V2",
   _energyLevel: 100,
   _numOfSensors: 15,
@@ -700,4 +700,4 @@ const robot = {
   }
 };
 robot.numOfSensors = 100;
-console.log(robot.numOfSensors);
+console.log(robot.numOfSensors); */
