@@ -770,7 +770,7 @@ console.log(newRobot); */
 
 let surg = new Surgeon("OOPS", "HOSP"); */
 
-class Surgeon {
+/* class Surgeon {
   constructor(name, department) {
     this.name = name;
     this.department = department;
@@ -785,3 +785,4 @@ const surgeonJackson = new Surgeon("Ruth Jackson", "Orthopedics");
 
 surgeonJackson.display();
 surgeonRomero.display();
+ */
