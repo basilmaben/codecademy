@@ -540,7 +540,8 @@ const alienShip = {
 };
 alienShip.retreat();
 alienShip.takeOff(); */
-let spaceship = {
+
+/* let spaceship = {
   passengers: [{ name: "OOPS" }],
   telescope: {
     yearBuilt: 2018,
@@ -575,3 +576,4 @@ const capFave = spaceship.crew.captain["favorite foods"][0];
 const firstPassenger = spaceship.passengers[0];
 console.log(capFave);
 console.log(firstPassenger);
+ */
