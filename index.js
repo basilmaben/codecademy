@@ -578,7 +578,7 @@ console.log(capFave);
 console.log(firstPassenger);
  */
 
-let spaceship = {
+/* let spaceship = {
   "Fuel Type": "Turbo Fuel",
   homePlanet: "Earth"
 };
@@ -597,3 +597,4 @@ console.log(spaceship["disabled"]);
 greenEnergy(spaceship);
 console.log(spaceship["Fuel Type"]);
 console.log(spaceship);
+ */
