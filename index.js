@@ -758,7 +758,7 @@ const newRobot = Object.assign(
 );
 console.log(newRobot); */
 
-/* class Surgeon {
+class Surgeon {
   constructor(name, department) {
     this.name = name;
     this.department = department;
@@ -770,4 +770,4 @@ console.log(newRobot); */
 
 let surg = new Surgeon("OOPS", "HOSP");
 
-surg.display(); */
+surg.display();
