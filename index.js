@@ -665,7 +665,7 @@ console.log(robot.provideInfo());
 
 robot.checkEnergy(); */
 
-const robot = {
+/* const robot = {
   _model: "1E78V2",
   _energyLevel: 100,
   get energyLevel() {
@@ -678,3 +678,4 @@ const robot = {
 };
 
 console.log(robot.energyLevel);
+ */
