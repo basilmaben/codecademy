@@ -944,9 +944,10 @@ const orderPromise = orderSunglasses();
 
 console.log(orderPromise); */
 
-console.log("This is the first line of code in app.js.");
+/* console.log("This is the first line of code in app.js.");
 const usingSTO = () => {
   console.log("Hello World!");
 };
 setTimeout(usingSTO, 3000);
 console.log("This is the last line of code in app.js.");
+ */
