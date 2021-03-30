@@ -878,7 +878,7 @@ console.log(nurseOlynyk.remainingVacationDays);
 nurseOlynyk.addCertification("Genetics");
 console.log(nurseOlynyk.certifications); */
 
-class HospitalEmployee {
+/* class HospitalEmployee {
   constructor(name) {
     this._name = name;
     this._remainingVacationDays = 20;
@@ -920,4 +920,4 @@ nurseOlynyk.takeVacationDays(5);
 console.log(nurseOlynyk.remainingVacationDays);
 nurseOlynyk.addCertification("Genetics");
 console.log(nurseOlynyk.certifications);
-console.log(HospitalEmployee.generatePassword());
+console.log(HospitalEmployee.generatePassword()); */
