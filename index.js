@@ -968,6 +968,7 @@ const handleFailure = (reject) => {
   console.log(reject);
 }; */
 
+/* 
 const { checkInventory } = require("./library.js");
 
 const order = [
@@ -987,4 +988,4 @@ const handleFailure = (rejectReason) => {
 
 checkInventory(order).then(handleSuccess).catch(handleFailure);
 
-checkInventory(order).then(handleSuccess, handleFailure);
+checkInventory(order).then(handleSuccess, handleFailure); */
