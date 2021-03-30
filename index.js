@@ -922,7 +922,7 @@ nurseOlynyk.addCertification("Genetics");
 console.log(nurseOlynyk.certifications);
 console.log(HospitalEmployee.generatePassword()); */
 
-const inventory = {
+/* const inventory = {
   sunglasses: 1900,
   pants: 1088,
   bags: 1344
@@ -942,4 +942,4 @@ const orderSunglasses = () => {
 };
 const orderPromise = orderSunglasses();
 
-console.log(orderPromise);
+console.log(orderPromise); */
