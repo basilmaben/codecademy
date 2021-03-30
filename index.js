@@ -819,7 +819,7 @@ console.log(surgeonRomero.takeVacationDays(3));
 console.log(surgeonRomero.remainingVacationDays);
  */
 
-class HospitalEmployee {
+/* class HospitalEmployee {
   constructor(name) {
     this._name = name;
     this._remainingVacationDays = 20;
@@ -834,3 +834,4 @@ class HospitalEmployee {
     this._remainingVacationDays -= daysOff;
   }
 }
+ */
