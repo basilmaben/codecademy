@@ -787,7 +787,7 @@ surgeonJackson.display();
 surgeonRomero.display();
  */
 
-class Surgeon {
+/* class Surgeon {
   constructor(name, department) {
     this._name = name;
     this._department = department;
@@ -817,3 +817,4 @@ const surgeonJackson = new Surgeon("Ruth Jackson", "Orthopedics");
 console.log(surgeonRomero.name);
 console.log(surgeonRomero.takeVacationDays(3));
 console.log(surgeonRomero.remainingVacationDays);
+ */
