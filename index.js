@@ -836,7 +836,7 @@ console.log(surgeonRomero.remainingVacationDays);
 }
  */
 
-class HospitalEmployee {
+/* class HospitalEmployee {
   constructor(name) {
     this._name = name;
     this._remainingVacationDays = 20;
@@ -863,4 +863,4 @@ class Nurse extends HospitalEmployee {
 }
 const nurseOlynyk = new Nurse("Olynyk", ["Trauma", "Pediatrics"]);
 
-nurseOlynyk.name();
+nurseOlynyk.name(); */
