@@ -995,7 +995,7 @@ let b = {};
 
 console.log(a === b); */
 
-const { checkInventory, processPayment, shipOrder } = require("./library.js");
+/* const { checkInventory, processPayment, shipOrder } = require("./library.js");
 
 const order = {
   items: [
@@ -1017,4 +1017,4 @@ checkInventory(order)
   })
   .catch((errorMessage) => {
     console.log(errorMessage);
-  });
+  }); */
