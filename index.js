@@ -990,7 +990,7 @@ checkInventory(order).then(handleSuccess).catch(handleFailure);
 
 checkInventory(order).then(handleSuccess, handleFailure); */
 
-let a = {};
+/* let a = {};
 let b = {};
 
-console.log(a === b);
+console.log(a === b); */
