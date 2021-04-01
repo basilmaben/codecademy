@@ -1019,7 +1019,7 @@ checkInventory(order)
     console.log(errorMessage);
   }); */
 
-const { checkInventory, processPayment, shipOrder } = require("./library.js");
+/* const { checkInventory, processPayment, shipOrder } = require("./library.js");
 
 const order = {
   items: [
@@ -1044,3 +1044,4 @@ checkInventory(order)
   .catch((errorMessage) => {
     console.log(errorMessage);
   });
+ */
