@@ -1046,7 +1046,7 @@ checkInventory(order)
   });
  */
 
-const { checkInventory, processPayment, shipOrder } = require("./library.js");
+/* const { checkInventory, processPayment, shipOrder } = require("./library.js");
 
 const order = {
   items: [
@@ -1064,4 +1064,4 @@ checkInventory(order).then((resolvedValueArray) => {
       console.log(successMessage);
     });
   });
-});
+}); */
