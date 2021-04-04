@@ -1147,7 +1147,7 @@ const handleFailure = (reject) => {
 checkInventory(order).then(handleSuccess, handleFailure);
  */
 
-const { checkInventory } = require("./library.js");
+/* const { checkInventory } = require("./library.js");
 
 const order = [
   ["sunglasses", 1],
@@ -1164,3 +1164,4 @@ const handleFailure = (rejectReason) => {
 
 // Write your code below:
 checkInventory(order).then(handleSuccess).catch(handleFailure);
+ */
