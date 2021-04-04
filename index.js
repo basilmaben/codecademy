@@ -1083,7 +1083,7 @@ withConstructor(0).then((resolveValue) => {
 }); */
 
 /* PROMISES REVISION */
-const inventory = {
+/* const inventory = {
   sunglasses: 1900,
   pants: 1088,
   bags: 1344
@@ -1105,3 +1105,4 @@ const orderSunglasses = () => {
 const orderPromise = orderSunglasses();
 
 console.log(orderPromise);
+ */
