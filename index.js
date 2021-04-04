@@ -1106,3 +1106,25 @@ const orderPromise = orderSunglasses();
 
 console.log(orderPromise);
  */
+
+/* const returnPromiseFunction = () => {
+  return new Promise((resolve, reject) => {
+    setTimeout(( ) => {resolve('I resolved!')}, 1000);
+  });
+};
+ 
+const prom = returnPromiseFunction();
+console.log(prom)
+ */
+
+console.log("This is the first line of code in app.js.");
+// Keep the line above as the first line of code
+// Write your code here:
+
+const usingSTO = () => {
+  console.log("Hello World");
+};
+setTimeout(usingSTO, 3000);
+
+// Keep the line below as the last line of code:
+console.log("This is the last line of code in app.js.");
