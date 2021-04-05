@@ -1217,7 +1217,7 @@ checkInventory(order)
   });
  */
 
-const { checkAvailability } = require("./library.js");
+/* const { checkAvailability } = require("./library.js");
 
 const onFulfill = (itemsArray) => {
   console.log(`Items checked: ${itemsArray}`);
@@ -1239,8 +1239,4 @@ Promise.all([checkSunglasses, checkPants, checkBags])
 
   .then(onFulfill)
   .catch(onReject);
-
-/* .then((onFulfill) => {
-console.log(onFulfill)
-})
  */
