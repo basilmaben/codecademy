@@ -1247,7 +1247,7 @@ setTimeout(() => {
 }, 2500);
 console.log("Second message!"); */
 
-function withConstructor(num) {
+/* function withConstructor(num) {
   return new Promise((resolve, reject) => {
     if (num === 0) {
       resolve("zero");
@@ -1280,3 +1280,4 @@ withAsync(100).then((resolveValue) => {
     ` withAsync(100) returned a promise which resolved to: ${resolveValue}.`
   );
 });
+ */
