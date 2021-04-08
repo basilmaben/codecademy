@@ -1282,7 +1282,7 @@ withAsync(100).then((resolveValue) => {
 });
  */
 
-const brainstormDinner = require("./library.js");
+/* const brainstormDinner = require("./library.js");
 
 // Native promise version:
 function nativePromiseDinner() {
@@ -1300,3 +1300,4 @@ async function announceDinner() {
 
 announceDinner();
 nativePromiseDinner();
+ */
