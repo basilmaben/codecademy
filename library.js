@@ -1,4 +1,4 @@
-const brainstormDinner = () => {
+/* const brainstormDinner = () => {
   return new Promise((resolve, reject) => {
     console.log(`I have to decide what's for dinner...`);
     setTimeout(() => {
@@ -17,4 +17,4 @@ const brainstormDinner = () => {
   });
 };
 
-module.exports = brainstormDinner;
+module.exports = brainstormDinner; */
