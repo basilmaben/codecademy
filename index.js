@@ -1299,3 +1299,4 @@ async function announceDinner() {
 }
 
 announceDinner();
+nativePromiseDinner();
