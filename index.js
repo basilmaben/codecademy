@@ -1313,7 +1313,7 @@ function getBeans() {
 getBeans();
  */
 
-let myPromise = () => {
+/* let myPromise = () => {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
       resolve("Yay, I resolved!");
@@ -1333,3 +1333,4 @@ async function yesAwait() {
 
 noAwait(); // Prints: Promise { <pending> }
 yesAwait(); // Prints: Yay, I resolved!
+ */
