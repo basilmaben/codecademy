@@ -1335,7 +1335,7 @@ noAwait(); // Prints: Promise { <pending> }
 yesAwait(); // Prints: Yay, I resolved!
  */
 
-const shopForBeans = require("./library.js");
+import shopForBeans from "./library.js";
 
 async function getBeans() {
   console.log(`1. Heading to the store to buy beans...`);
