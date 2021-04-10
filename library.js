@@ -19,7 +19,7 @@
 
 module.exports = brainstormDinner; */
 
-/* const shopForBeans = () => {
+const shopForBeans = () => {
   return new Promise((resolve, reject) => {
     const beanTypes = ["kidney", "fava", "pinto", "black", "garbanzo"];
     setTimeout(() => {
@@ -32,4 +32,3 @@ module.exports = brainstormDinner; */
 };
 
 module.exports = shopForBeans;
- */
