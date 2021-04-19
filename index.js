@@ -1346,7 +1346,7 @@ async function getBeans() {
 getBeans();
  */
 
-const { shopForBeans, soakTheBeans, cookTheBeans } = require("./library.js");
+/* const { shopForBeans, soakTheBeans, cookTheBeans } = require("./library.js");
 
 // Write your code below:
 async function makeBeans() {
@@ -1356,3 +1356,4 @@ async function makeBeans() {
   console.log(dinner);
 }
 makeBeans();
+ */
