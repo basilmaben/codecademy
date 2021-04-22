@@ -1372,7 +1372,7 @@ function isObject(obj) {
 console.log(_keys({ red: "#FF0000", green: "#00FF00", white: "#FFFFFF" }));
  */
 
-const cookBeanSouffle = require("./library.js");
+/* const cookBeanSouffle = require("./library.js");
 
 // Write your code below:
 
@@ -1386,4 +1386,4 @@ async function hostDinnerParty() {
   }
 }
 
-hostDinnerParty();
+hostDinnerParty(); */
