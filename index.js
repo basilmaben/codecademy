@@ -1358,7 +1358,7 @@ async function makeBeans() {
 makeBeans();
  */
 
-function _keys(obj) {
+/* function _keys(obj) {
   if (!isObject(obj)) return [];
   if (Object.keys) return Object.keys(obj);
   var keys = [];
@@ -1370,3 +1370,4 @@ function isObject(obj) {
   return type === "function" || (type === "object" && !!obj);
 }
 console.log(_keys({ red: "#FF0000", green: "#00FF00", white: "#FFFFFF" }));
+ */
