@@ -1388,7 +1388,7 @@ async function hostDinnerParty() {
 
 hostDinnerParty(); */
 
-let {
+/* let {
   cookBeans,
   steamBroccoli,
   cookRice,
@@ -1408,3 +1408,4 @@ async function serveDinner() {
 }
 
 serveDinner();
+ */
