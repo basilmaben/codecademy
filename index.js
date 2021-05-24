@@ -1424,7 +1424,7 @@ setTimeout(() => {
 console.log("Second message!");
  */
 
-const xhr = new XMLHttpRequest();
+/* const xhr = new XMLHttpRequest();
 const url = "https://api-to-call.com/endpoint";
 xhr.responseType = "json";
 xhr.onreadystatechange = () => {
@@ -1434,4 +1434,4 @@ xhr.onreadystatechange = () => {
 };
 
 xhr.open("GET", url);
-xhr.send();
+xhr.send(); */
