@@ -1451,7 +1451,7 @@ xhr.onreadystatechange = () => {
 xhr.open("POST", url);
 xhr.send(data); */
 
-fetch("https://api-to-call.com/endpoint")
+/* fetch("https://api-to-call.com/endpoint")
   .then(
     (response) => {
       if (response.ok) {
@@ -1465,4 +1465,4 @@ fetch("https://api-to-call.com/endpoint")
   )
   .then((jsonResponse) => {
     return jsonResponse;
-  });
+  }); */
