@@ -1436,7 +1436,7 @@ xhr.onreadystatechange = () => {
 xhr.open("GET", url);
 xhr.send(); */
 
-const xhr = new XMLHttpRequest();
+/* const xhr = new XMLHttpRequest();
 const url = "https://api-to-call.com/endpoint";
 const data = JSON.stringify({ id: "200" });
 
@@ -1449,4 +1449,4 @@ xhr.onreadystatechange = () => {
 };
 
 xhr.open("POST", url);
-xhr.send(data);
+xhr.send(data); */
