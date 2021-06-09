@@ -1467,40 +1467,26 @@ xhr.send(data); */
     return jsonResponse;
   }); */
 
-// Information to reach API
-const url = "https://api.datamuse.com/words";
-const queryParams = "?sl=";
+/* function validatePalin(str) {  
+  
+    // get the total length of the words  
+    const len = string.length;  
+  
+    // Use for loop to divide the words into 2 half  
+    for (let i = 0; i < len / 2; i++) {  
+  
+        // validate the first and last characters are same  
+        if (string[i] !== string[len - 1 - i]) {  
+            alert( 'It is not a palindrome');  
+        }  
+    }  
+    alert( 'It is a palindrome');  
+}  
+  
+const string = prompt('Enter a string or number: ');  
+  
+const value = validatePalin(string);  
+  
+console.log(value);  
+ */
 
-// Selects page elements
-const inputField = document.querySelector("#input");
-const submit = document.querySelector("#submit");
-const responseField = document.querySelector("#responseField");
-
-// AJAX function
-const getSuggestions = () => {
-  const wordQuery = inputField.value;
-  const endpoint = `${url}${queryParams}${wordQuery}`;
-
-  fetch(endpoint, { cache: "no-cache" }).then(
-    (response) => {
-      if (response.ok) {
-        return response.json();
-      }
-      throw new Error("Request failed!");
-    },
-    (networkError) => {
-      console.log(networkError.message);
-    }
-  );
-};
-
-// Clears previous results and display results to webpage
-const displaySuggestions = (event) => {
-  event.preventDefault();
-  while (responseField.firstChild) {
-    responseField.removeChild(responseField.firstChild);
-  }
-  getSuggestions();
-};
-
-submit.addEventListener("click", displaySuggestions);
