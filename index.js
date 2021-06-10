@@ -1491,7 +1491,8 @@ console.log(value);
  */
 
 // Information to reach API
-const url = "https://api.datamuse.com/words";
+
+/* const url = "https://api.datamuse.com/words";
 const queryParams = "?sl=";
 
 // Selects page elements
@@ -1527,3 +1528,4 @@ const displaySuggestions = (event) => {
 };
 
 submit.addEventListener("click", displaySuggestions);
+ */
