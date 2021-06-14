@@ -1588,7 +1588,7 @@ for (let i = 1; i <= number; i++) {
 }
  */
 
-fetch("https://api-to-call.com/endpoint", {
+/* fetch("https://api-to-call.com/endpoint", {
   method: "POST",
   body: JSON.stringify({ id: "200" })
 })
@@ -1605,4 +1605,4 @@ fetch("https://api-to-call.com/endpoint", {
   )
   .then((jsonResponse) => {
     console.log(jsonResponse);
-  });
+  }); */
