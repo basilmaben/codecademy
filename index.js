@@ -1604,10 +1604,10 @@ for (let i = 1; i <= number; i++) {
     }
   )
   .then((jsonResponse) => {
-    console.log(Digits
-
+    console.log(Digits);
+ */
 // program to check an Armstrong number of three digits
-
+/* 
 let sum = 0;
 const number = prompt('Enter a three-digit positive integer: ');
 
@@ -1623,9 +1623,10 @@ while (temp > 0) {
     temp = parseInt(temp / 10); // convert float into integer
 }
 // check the condition
-if (sum == number) {
+if (sum === number) {
     console.log(`${number} is an Armstrong number`);
 }
 else {
     console.log(`${number} is not an Armstrong number.`);
 }
+ */
