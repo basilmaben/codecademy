@@ -1632,7 +1632,7 @@ else {
  */
 
 // Information to reach API
-const apiKey = "<Your API Key>";
+/* const apiKey = "<Your API Key>";
 const url = "https://api.rebrandly.com/v1/links";
 
 // Some page elements
@@ -1675,3 +1675,4 @@ const displayShortUrl = (event) => {
 };
 
 shortenButton.addEventListener("click", displayShortUrl);
+ */
