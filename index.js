@@ -1690,5 +1690,6 @@ shortenButton.addEventListener("click", displayShortUrl);
     }
 
     return true;
-    */
+    
 }
+*/
