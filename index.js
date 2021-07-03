@@ -1703,7 +1703,7 @@ for (let i = 1; i <= n; i++) { // external loop
 }
 console.log(string);
 */
-let n = 5;
+/* let n = 5;
 let string = "";
 // External loop
 for (let i = 1; i <= n; i++) {
@@ -1717,4 +1717,4 @@ for (let i = 1; i <= n; i++) {
   }
   string += "\n";
 }
-console.log(string);
+console.log(string); */
