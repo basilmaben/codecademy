@@ -1719,7 +1719,7 @@ for (let i = 1; i <= n; i++) {
 }
 console.log(string); */
 
-fetch("people.json")
+/* fetch("people.json")
   .then(function (response) {
     return response.json();
   })
@@ -1737,3 +1737,4 @@ function appendData(data) {
     mainContainer.appendChild(div);
   }
 }
+ */
